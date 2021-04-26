@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.main {
+  text-align: center;
+  margin: 50px;
+  background-color: gray;
+  max-width: 50%;
+  height: 500px;
+}
